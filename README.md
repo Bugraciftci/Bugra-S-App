@@ -4,7 +4,7 @@ This privacy policy applies to the This app (hereby referred to as "Application"
 
 **Information Collection and Use**
 
-The Application collects information when you download and use it. This information may include information such as
+The Application collects information when you download and use it. This information may include information such as.
 
 *   Your device's Internet Protocol address (e.g. IP address)
 *   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
